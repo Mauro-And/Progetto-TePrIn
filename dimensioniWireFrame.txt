@@ -1,0 +1,205 @@
+NavBar
+	padding: 25 px left, right
+	nomi centrati verticalmente in 70 px
+
+
+
+Prima schermata
+
+Titolo:
+	margin: 25 px top
+	
+	verticalmente centrato in 54 px
+	orizzontalmente centrato
+
+	font dimensione: 32
+
+Marca:
+	margin: 8 px top
+
+	verticalmente centrato in 25 px
+	orizzontalmente centrato
+
+	font dimensione: 20
+
+Prezzo:
+	margin: 8 px top
+
+	verticalmente centrato in 25 px
+	orizzontalmente centrato
+
+	font dimensione: 14
+
+Immagine principale:
+	margin: 25 px     top
+
+	orizzontalmente centrato
+
+Immagini secondarie:
+	margin: 25 px     top
+
+	orizzontalmente centrate
+
+	fra una e l'altra 21 px
+
+Aggiungi al carrello:
+	margin: 25px top
+
+	verticalmente centrato in 30 px
+	orizzontalmente centrato
+
+
+
+Seconda schermata
+
+Descrizione:
+	margin: 25 px top
+	
+	verticalmente centrato in 54 px
+	orizzontalmente centrato
+
+	font dimensione: 32
+
+Testo descrizione:
+	padding: 10 px     top, bottom, left e right
+	margin: 25 px     top
+
+	orizzontalmente centrato
+
+	font dimensione: 20
+
+Dimensioni e Specifiche:
+	margin: 25 px top
+	
+	verticalmente centrato in 54 px
+	orizzontalmente centrato
+
+	font dimensione: 32
+
+Testo dimensioni e specifiche:
+	padding: 10 px     top, bottom, left e right
+	margin: 25 px     top
+
+	orizzontalmente centrato
+
+	font dimensione: 20
+
+
+
+Terza schermata
+
+Contenuto Confezione:
+	margin: 25 px top
+	
+	verticalmente centrato in 54 px
+	orizzontalmente centrato
+
+	font dimensione: 32
+
+Contenitore immagini:
+	padding: 28 px top, bottom, left e right	
+
+Immagini:
+	orizzontalmente centrate
+	fra di loro una distanza di 50 px
+
+	scritte centrate sotto ogni foto
+	verticalmente centrate in 16 px
+	font 15
+
+Prodotti correlati:
+	margin: 25 px top
+	
+	verticalmente centrato in 54 px
+	orizzontalmente centrato
+
+	font dimensione: 32
+
+
+Immagini:
+	margin: 25 px top
+	oizzontalmente centrate
+	fra di loro una distanza di 7 px
+	
+	scritte centrate sotto ogni foto
+	font 15
+
+Quarta schermata
+
+FAQ:
+	margin: 25 px top
+	
+	verticalmente centrato in 54 px
+	orizzontalmente centrato
+
+	font dimensione: 32
+
+Contenitore Domande:
+	margin: 25 px top
+	padding: 10 px bottom, left e right
+
+Domande:
+	padding: 10 px top
+
+Risposte:
+	padding: 4 px top
+
+
+
+
+Quinta schermata
+
+Recensioni:
+	margin: 25 px top
+	
+	verticalmente centrato in 54 px
+	orizzontalmente centrato
+
+	font dimensione: 32
+
+Contenitore dati:
+	padding: 10 px top
+	padding: 7 px bottom
+
+Stelle recensioni:
+	padding: 10 px bottom
+	verticalmente centrato in 43 px
+
+Progress bar:
+	padding: 3 px bottom											<-- DA FARE
+
+Recensione1 e Recensione2:
+	padding: 10 px top, bottom, left e right
+	
+	Nome e Cognome:
+		padding 5 px left
+		verticalmente centrato in 42 px
+		font: 14
+
+	Stelle:
+		margin: 3 px top
+		font: 14
+
+	Titolo:
+		margin: 3 px top
+		font: 16
+	
+	Testo recensione:
+		margin: 3 px top
+		font: 14
+
+
+
+Sesta schermata
+
+Contenitore footer:
+	padding: 10 px top, bottom
+	padding: 35 px left, right
+
+Voci:
+	padding: 10 px bottom
+	font: 12
+
+Copyright etc:
+	padding: 10 px top, bottom
+	font: 12

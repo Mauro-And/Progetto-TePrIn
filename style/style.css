@@ -1,0 +1,416 @@
+body {
+    margin:0;
+}
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    line-height: 70px;
+    max-height: 70px;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}
+
+.margin-left-navbar {
+    margin-left: 5vw;
+}
+
+.margin-right-navbar {
+    margin-right: 5vw;
+}
+
+.navbar-text {
+    text-align: center;
+    padding: 14px 16px;
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.top-inizial-space {
+    margin-top: 95px;
+}
+
+.lateral-margin {
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.principal-title {
+    line-height: 54px;
+    margin-bottom: 0px;
+    font-size:32px;
+}
+
+.title {
+    line-height: 54px;
+    margin-bottom: 0px;
+    font-size:32px;
+}
+
+.subtitle{
+    line-height: 25px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+
+.small-subtitle{
+    font-size: 14px;
+}
+
+.horizontal-center {
+    display : flex;
+    align-items : center;
+    justify-content: center;
+}
+
+.top-space-25 {
+    margin-top: 25px;
+}
+
+.custom-image-principal {
+    width: 100%;
+}
+
+.image-space-between {
+    margin-left: 21px;
+    margin-right: 21px;
+}
+
+.container-images {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.add-to-cart {
+    line-height: 30px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.custom-text {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    font-size: 20px;
+    text-align: justify;
+}
+
+p {
+    margin-bottom: 0px!important;
+}
+
+.container-images {
+    padding-right: 28px;
+    padding-left: 28px;
+}
+
+.image-text {
+    width: 100%;
+    line-height: 16px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.padding-content-package {
+    padding-bottom: 35px;
+}
+
+.space-related-products-left {
+    margin-right: 3.5px;
+}
+
+.space-related-products-right {
+    margin-left: 3.5px;
+}
+
+.question-container {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.custom-question {
+    font-size: 20px;
+}
+
+.custom-answer {
+    font-size: 17px;
+}
+
+.review-container {
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+.custom-stars {
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.name-review {
+    line-height: 42px;
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+.text-review {
+    margin-top: 3px;
+    font-size: 14px;
+}
+
+.star-review {
+    margin-top: 3px;
+    font-size: 14px;
+}
+
+.title-review {
+    margin-top: 3px;
+    font-size: 16px;
+}
+
+.personal-review {
+    padding: 10px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.review-data {
+    font-size: 17px;
+}
+
+.height-progress-bar {
+    height: 10px!important;
+    margin-top: 1.7vw!important;
+}
+
+.image-pearson {
+    border-radius: 50%;
+    width: 42px;
+}
+
+.review-heigh-row {
+    height: 42px;
+}
+
+.custom-footer {
+    font-size: 12px;
+}
+
+.custom-footer-expanded {
+    font-size: 12px;
+}
+
+.footer-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.custom-footer-text {
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.remove-effect:focus {
+    outline:0 !important;
+}
+
+@media screen and (min-width: 490px) {
+    .navbar {
+        line-height: 85px;
+        max-height: 85px;
+    }
+    
+    .navbar-text {
+        font-size: 3vw;
+        max-height: 130px;
+    }
+
+    .top-inizial-space {
+        margin-top: 145px;
+    }
+
+    .top-space-25 {
+        margin-top: 4vw;
+    }
+
+    .principal-title {
+        line-height: 10vw;
+        font-size: 7vw;
+    }
+
+    .title {
+        line-height: 10vw;
+        font-size: 5vw;
+    }
+
+    .subtitle{
+        line-height: 6vw;
+        font-size:4vw;
+    }
+
+    .small-subtitle{
+        font-size:3vw;
+    }
+
+    .custom-image-principal {
+        width: 80vw;
+    }
+
+    .add-to-cart {
+        line-height: 7vw;
+        font-size: 3vw;
+        border-radius: 0.5vw;
+    }
+
+    .image-space-between {
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+    
+    .image-text {
+        line-height: 4vw;
+        font-size: 3vw;
+    }
+
+    .space-related-products-left {
+        margin-right: 2vw;
+    }
+
+    .space-related-products-right {
+        margin-left: 2vw;
+    }
+    
+    .custom-text {
+        font-size: 3vw;
+    }
+
+    .custom-question {
+        font-size: 3vw;
+    }
+
+    .custom-answer {
+        font-size: 2vw;
+    }
+
+    .custom-stars {
+        padding-bottom: 2vw;
+        font-size: 3vw;
+    }
+
+    .review-data {
+        font-size: 3vw;
+    }
+
+    .height-progress-bar {
+        height: 2vw!important;
+    }
+
+    .title-review {
+        font-size: 3vw;
+    }
+
+    .name-review {
+        font-size: 3vw;
+        padding-left: 0.5vw;
+    }
+
+    .custom-footer {
+        font-size: 1.3vw;
+    }
+    
+    .custom-footer-expanded {
+        font-size: 1vw;
+    }
+
+    .custom-footer-text {
+        font-size: 2vw;
+    }
+}
+
+@media screen and (min-width: 690px) {
+    .navbar {
+        line-height: 100px;
+        max-height: 100px;
+    }
+
+    .navbar-text {
+        font-size: 2vw;
+        max-height: 130px;
+    }
+
+    .custom-image-principal {
+        width: 60vw;
+    }
+
+    .image-pearson {
+        width: 7vw;
+    }
+
+    .review-heigh-row {
+        height: 7vw;
+    }
+
+    .name-review {
+        line-height: 7vw;
+        font-size: 3vw;
+    }
+
+    .text-review {
+        font-size:2vw;
+    }
+
+    .star-review {
+        margin-top: 3px;
+        font-size: 2vw;
+        display : flex;
+        align-items : center;
+        justify-content: center;
+    }
+
+    .custom-footer-text {
+        font-size: 1.5vw;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .navbar {
+        line-height: 110px;
+        max-height: 110px;
+    }
+
+    .navbar-text {
+        font-size: 1.5vw;
+        max-height: 130px;
+    }
+
+    .custom-footer-text {
+        font-size: 1vw;
+    }
+}

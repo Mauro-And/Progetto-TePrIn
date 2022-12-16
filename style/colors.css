@@ -1,0 +1,94 @@
+:root{
+    --custom-black: #141414;
+    --custom-darker-black: #0D0D0D;
+    --custom-blue: #003566;
+    --custom-darker-blue: #002D57;
+    --custom-yellow: #FCA311;
+    --custom-darker-yellow: #DE8F10;
+    --custom-grey: #E0E0E0;
+    --custom-darker-grey: #D6D6D6;
+    --custom-white: #F7F7F7;
+    --custom-darker-white: #F0F0F0;
+}
+
+.custom-black{
+    color: var(--custom-black)!important;
+}
+
+.custom-blue{
+    color: var(--custom-blue);
+}
+
+.custom-yellow{
+    color: var(--custom-yellow);
+}
+
+.custom-grey{
+    color: var(--custom-grey);
+}
+
+.custom-white{
+    color: var(--custom-white);
+}
+
+
+.custom-bg-black{
+    background-color: var(--custom-black);
+}
+
+.custom-bg-blue{
+    background-color: var(--custom-blue);
+}
+
+.custom-bg-yellow{
+    background-color: var(--custom-yellow);
+}
+
+.custom-bg-grey{
+    background-color: var(--custom-grey);
+}
+
+.custom-bg-white{
+    background-color: var(--custom-white);
+}
+
+
+.custom-link-black{
+    background-color: var(--custom-black);
+}
+
+.custom-link-black:hover{
+    background-color: var(--custom-darker-black);
+}
+
+.custom-link-blue{
+    background-color: var(--custom-blue)!important;
+}
+
+.custom-link-blue:hover{
+    background-color: var(--custom-darker-blue)!important;
+}
+
+.custom-link-yellow{
+    background-color: var(--custom-yellow);
+}
+
+.custom-link-yellow:hover{
+    background-color: var(--custom-darker-yellow);
+}
+
+.custom-link-grey{
+    background-color: var(--custom-grey)!important;
+}
+
+.custom-link-grey:hover{
+    background-color: var(--custom-darker-grey)!important;
+}
+
+.custom-link-white{
+    background-color: var(--custom-white)!important;
+}
+
+.custom-link-white:hover{
+    background-color: var(--custom-darker-white)!important;
+}
